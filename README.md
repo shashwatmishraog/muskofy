@@ -1,3 +1,3 @@
-# muskofy
-muskofy first edit
+# maskofy
+maskofy first edit
 maskofy.com
